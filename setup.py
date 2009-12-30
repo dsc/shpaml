@@ -13,7 +13,7 @@ setup(
     author = "Steve Howell",
     author_email = "showell30@yahoo.com",
     
-    packages=['shpaml']
+    packages=['shpaml'],
     zip_safe = True,
     classifiers = [],
 )
